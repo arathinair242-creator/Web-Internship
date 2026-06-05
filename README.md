@@ -18,6 +18,26 @@ This project is a simple NGO awareness website created using HTML and CSS. It ai
 * Contact Form
 * Responsive Design
 
+# InAmigos Foundation Website Improvement Analysis
+Task 2
+
+This repository contains my Website Improvement Analysis Report completed as part of my Web Development Internship at InAmigos Foundation.
+
+The analysis focuses on:
+
+* Homepage Review
+* About Us Section Analysis
+* Causes Page Analysis
+* Volunteers Page Analysis
+* Events Page Analysis
+* Gallery Page Analysis
+* Footer Section Analysis
+* User Experience (UX) Improvements
+* Content & Design Recommendations
+
+The objective of this task was to evaluate the existing website structure and suggest practical improvements that could enhance usability, readability, navigation, and overall user engagement.
+
+
 ## Technologies Used
 
 * HTML5
