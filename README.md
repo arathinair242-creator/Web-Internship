@@ -56,6 +56,17 @@ Key Learnings from this Project:
 • Learned how to deploy and publish a website using an AI-powered development platform.
 • Explored the practical applications of AI in web design and development.
 • Developed a better understanding of how AI can accelerate the website creation process while maintaining creativity and functionality.
+Task 4:Completed Task 4 of my Web Development Internship with InAmigos Foundation.
+
+As part of this task, I designed an NGO Website Feature Highlight mockup in Figma, focusing on key features that improve user engagement, transparency, fundraising, and community participation.
+
+The design highlights:
+• Donation Section
+• Impact Showcase
+• Campaigns & Projects
+• Volunteer Registration
+• Testimonials & Success Stories
+• Future Enhancement Ideas
 
 ## Author
 
